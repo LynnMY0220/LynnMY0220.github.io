@@ -1,0 +1,65 @@
+html {
+  font-family: "Ma Shan Zheng", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10px;
+  color: white;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  padding: 0 20px 20px 20px;
+  border: 2px solid green;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: black;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 3px red;
+}
+
+h2 {
+  font-size: 40px;
+  color: green;
+}
+
+p,
+li {
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 1;
+  color: green;
+}
+
+img {
+  margin: 20px 99px;
+  display: inline-block;
+}
+
+button {
+  margin: 20px 5% 10px 85%;
+}
+
+#biaoyu {
+  text-align: center;
+  color: black;
+  margin: 0;
+}
+
+#huanying {
+  text-align: center;
+  color: green;
+  margin: 0;
+  font-size: 25px;
+}
+
+.endlink {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 350px;
+}
